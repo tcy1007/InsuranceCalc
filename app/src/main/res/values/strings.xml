@@ -10,6 +10,7 @@
     <string name="calculate">Calculate</string>
     <string name="reset">Reset</string>
     <string name="total">Total :</string>
+    <string name="asd">123 :</string>
 
     <string-array name="AgeRange">
         <item>Less than 17</item>
